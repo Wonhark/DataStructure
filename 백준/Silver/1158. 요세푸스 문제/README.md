@@ -26,3 +26,5 @@
 
  <p>예제와 같이 요세푸스 순열을 출력한다.</p>
 
+### 풀이
+Queue 사용!! from collections import deque -> deque를 써서 queue 표현
